@@ -162,7 +162,7 @@
     <Resource Include="Assets\Microsoft-logo_rgb_c-gray.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Cognitive-Common-Windows\SampleUserControlLibrary\SampleUserControlLibrary.csproj">
+    <ProjectReference Include="..\..\Cognitive-Common-Windows\SampleUserControlLibrary\SampleUserControlLibrary.csproj">
       <Project>{735929f0-f8f1-4d93-b027-5d034fa7892b}</Project>
       <Name>SampleUserControlLibrary</Name>
     </ProjectReference>
